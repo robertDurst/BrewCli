@@ -1,7 +1,7 @@
 # BrewCli
 
 ```
-!בור ינא מולש
+! שלומ אני רוב 
 ```
 
 Ever needed a command line Hebrew keyboard interface?
