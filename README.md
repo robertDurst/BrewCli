@@ -4,7 +4,7 @@
 ! שלומ אני רוב 
 ```
 
-Ever needed a command line Hebrew keyboard interface?
+Ever needed a command line Hebrew keyboard interface to quickly look up words on the fly?
 
 ## Quick Start
 
@@ -15,4 +15,8 @@ python3 main.py
 
 ## Keyboard Mappings
 
-See *Alphabet.py*.
+See `Alphabet.py`
+
+## Current Dictionary
+
+See `data/Dictionary.json`
