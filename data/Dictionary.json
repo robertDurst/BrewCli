@@ -1,8 +1,21 @@
 {
-    "שלומ": "hello",
-    "אבא": "dad/father",
-    "אמא": "mom/mother",
-    "טוב": "good",
-    "תודה": "thanks/thank you",
-    "אני": "I am"
+    "שלומ": "hello (sha-lome)",
+    "אבא": "dad/father (ab-ba)",
+    "אמא": "mom/mother (ee-ma)",
+    "טוב": "good (toev)",
+    "תודה": "thanks/thank you (toe-dah)",
+    "אני": "I am (ah-knee)",
+    "תפוח": "Apple (ta-poo-cha) - guttaral",
+    "תפוז": "Orange (ta-pooz)",
+    "מיץ": "Juice (meats)",
+    "מיץ תפוזים": "Orange Juice (meats ta-poo-zeem)",
+    "מיץ תפוחים": "Apple Juice (meats ta-poo-cheem) - guttaral",
+    "בבקשה": "You are welcome (ba-vah-kah-shaw)",
+    "מה קורה": "What's up? (mah-kowre) - wre reysh sound",
+    "כשר": "Kosher (kosher)",
+    "בסדר": "Ok (be-se-der)",
+    "מה": "What? (ma)",
+    "חלב": "Milk (chalav) - guttaral",
+    "שוקולד": "Chocolate (sho-co-lad)",
+    "חלב שוקולד": "Chocolate Milk (chalav sho-co-lad) - guttaral"
 }

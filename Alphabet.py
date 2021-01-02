@@ -53,7 +53,8 @@ character_dictionary = {
     'X': final_tsadi,
     'q': qof,
     's': shin,
-    'T': tav
+    'T': tav,
+    ' ': ' '
 }
 
 def convert_character_to_hebrew(character):
